@@ -1,0 +1,37 @@
+# Core Dependencies
+pathway==0.post1
+
+# Web Framework and API
+fastapi==0.109.0
+uvicorn==0.27.0
+httpx==0.28.0
+
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# Visualization and UI
+streamlit==1.29.0
+plotly==5.18.0
+
+# LLM and Embeddings
+openai==1.3.7
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
+transformers==4.36.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+
+# Development Tools
+black==23.12.1
+isort==5.13.2
+flake8==7.0.0
